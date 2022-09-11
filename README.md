@@ -1,4 +1,4 @@
-## Hola, I'm Inshan Ajmera! 👋
+## Hola, I'm Ishan Ajmera! 👋
 
 <a href="https://www.linkedin.com/in/ajmera-ishan/">
   <img align="left" alt="Ishan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
